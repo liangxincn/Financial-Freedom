@@ -90,3 +90,7 @@
 先来看一张图（插图摘自The Success Equation:Untangling Skill and Luck in Business,Sports,and Investing,Michael J.Mauboussin）。
 
 纯粹依靠技术纯粹依靠运气
+
+
+
+[**返回目录**](./menu.md)
