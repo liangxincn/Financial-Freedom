@@ -13,9 +13,9 @@
 
 核心理由在于，人们所从事的各种活动有着本质的不同，有一个重要的因素使我们没办法对整个世界“一概而论”。
 
-![](images/skill.jpeg)
-
 先来看一张图（插图摘自The Success Equation:Untangling Skill and Luck in Business,Sports,and Investing,Michael J.Mauboussin）。
+
+![](images/skill.jpeg)
 
 成功方程
 
