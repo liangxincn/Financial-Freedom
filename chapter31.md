@@ -83,14 +83,5 @@
 
 那么应该如何呵护这个生命中最重要的东西呢？相信我，无论什么事情都是有方法论的，越是重要的事，越是必然有方法论存在，而且越是必然有更好的方法论存在。
 
-核心理由在于，人们所从事的各种活动有着本质的不同，有一个重要的因素使我们没办法对整个世界“一概而论”。
-
-![](images/skill.jpeg)
-
-先来看一张图（插图摘自The Success Equation:Untangling Skill and Luck in Business,Sports,and Investing,Michael J.Mauboussin）。
-
-纯粹依靠技术纯粹依靠运气
-
-
 
 [**返回目录**](./menu.md)
