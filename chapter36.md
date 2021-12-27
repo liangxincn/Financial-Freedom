@@ -197,3 +197,5 @@ VC其实是最懂如何“不冒险”的。风险投资的模型设计，也是
 ![](images/image20211227-zuni.png)
 
 <center>阻尼正弦函数</center>
+
+[**返回目录**](./menu.md)
